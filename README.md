@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="proto" width="880"></p>
+
 # hanzoai/proto
 
 Schema definitions for the Hanzo platform. Mirrors `github.com/luxfi/proto`
