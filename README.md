@@ -41,3 +41,5 @@ ZAP exclusively.
 
 See `~/work/lux/proto` and `~/work/lux/p2p/proto/{zap,pb}/` for the same pattern
 on the Lux side.
+
+Licensed under [MIT](LICENSE-MIT) or [Apache-2.0](LICENSE-APACHE), at your option — per HIP-0137.
