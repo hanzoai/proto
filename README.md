@@ -17,7 +17,7 @@ proto/
 ```
 
 For any schema, both directories carry **the same package path** so importers
-do `import "github.com/hanzoai/proto/zap/o11y"` and the Go build picks the
+do `import "hanzo.ai/proto/zap/o11y"` and the Go build picks the
 right file based on the build tag at the top of each file.
 
 ## Build tags
